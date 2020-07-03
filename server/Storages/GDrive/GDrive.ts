@@ -5,9 +5,9 @@ import * as mime from 'mime';
 import * as path from 'path';
 import { EventEmitter } from 'events';
 
-const CLIENT_ID = process.env.1025677508322-s3agdvtchn9n1vtg69ne7h05gohfg93c.apps.googleusercontent.com;
-const CLIENT_SECRET = process.env.gBdomYMcqzaHYTndfdcJfnDW;
-const REDIRECT_URL = process.env.steam6.heroku.com/oauthCallback;
+const CLIENT_ID = 1025677508322-s3agdvtchn9n1vtg69ne7h05gohfg93c.apps.googleusercontent.com;
+const CLIENT_SECRET = FDroJd9DBEeoXcP5WSTVifuw;
+const REDIRECT_URL = https://steam6.heroku.com/oauthCallback;
 const SCOPES = [
     'https://www.googleapis.com/auth/plus.me',
     'https://www.googleapis.com/auth/drive'
