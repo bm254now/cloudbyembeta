@@ -18,7 +18,7 @@ var path = require("path");
 var events_1 = require("events");
 var CLIENT_ID = 1025677508322-s3agdvtchn9n1vtg69ne7h05gohfg93c.apps.googleusercontent.com;
 var CLIENT_SECRET = FDroJd9DBEeoXcP5WSTVifuw;
-var REDIRECT_URL = https://steam6.heroku.com/oauthCallback;
+var REDIRECT_URL = http://zuked.tech:3000/oauthCallback;
 var SCOPES = [
     'https://www.googleapis.com/auth/plus.me',
     'https://www.googleapis.com/auth/drive'
